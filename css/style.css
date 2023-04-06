@@ -25,6 +25,7 @@ body {
     justify-content: space-between;
     padding-top: 60px;
     margin-bottom: 90px;
+    z-index: 100;
 }
 .menu-list {
   margin-right: auto;
@@ -91,8 +92,8 @@ height: 101px;
     color: #fff;
     border: none;
     text-decoration: none;
-  
     padding: 22px 72px;
+    margin-top: 30px;
     
 }
 .button:active {
@@ -243,6 +244,9 @@ margin-left: 0;
  }
 }
 @media (max-width: 540px) {
+    .main-description {
+        width: 100%;
+    }
     .menu-button {
         display: block;
         position: absolute;
@@ -253,6 +257,7 @@ margin-left: 0;
         background-color: white;
         border: none;
         cursor: pointer;
+        z-index: 101;
     }
     .menu-button::before {
         content: '';
@@ -331,6 +336,9 @@ margin-left: 0;
     }
     .main-title {
        font-size: 56px; 
+    }
+    .arrow {
+        right: 20%;
     }
    
 }
