@@ -197,8 +197,58 @@ margin: auto;
     color: #ffffffd7;
     height: 140px;
     width: 200px;
-    
 }
+.series-4 {
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('../img/series\ 4.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    border: none;
+    color: #ffffffd7;
+    height: 140px;
+    width: 200px;
+}
+.series-5 {
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('../img/series\ 5.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    border: none;
+    color: #ffffffd7;
+    height: 140px;
+    width: 200px;
+}
+.series-6 {
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('../img/series\ 6.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    border: none;
+    color: #ffffffd7;
+    height: 140px;
+    width: 200px;
+}
+.series-7 {
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('../img/series\ 7.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    border: none;
+    color: #ffffffd7;
+    height: 140px;
+    width: 200px;
+}
+.series-8 {
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('../img/series\ 8.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    border: none;
+    color: #ffffffd7;
+    height: 140px;
+    width: 200px;
+}
+
 .arrow {
     width: 32px;
     height: 23px;
